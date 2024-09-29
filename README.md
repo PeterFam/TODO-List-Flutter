@@ -9,5 +9,3 @@ This is a simple todo list app built with Flutter, utilizing Clean Architecture 
 - **BLoC State Management:** Efficient management of UI state and business logic.
 - **Isar DB: High-performance** local database for persisting todos.
 - **Flutter Lints:** Enforced coding standards and best practices.
-
-This project is a starting point for a Flutter application.
