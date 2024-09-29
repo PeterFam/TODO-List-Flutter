@@ -1,16 +1,13 @@
-# todo_list
+# Todo List
 
-Simple todo list app made by flutter
+This is a simple todo list app built with Flutter, utilizing Clean Architecture for better scalability and maintainability. It uses the BLoC state management pattern to handle state changes and the Isar database for efficient local storage of todo items. The project follows best practices with Flutter lints to ensure code quality and consistency.
 
-## Getting Started
+
+## Key Features:
+
+- **Clean Architecture:** Well-structured codebase for future enhancements.
+- **BLoC State Management:** Efficient management of UI state and business logic.
+- **Isar DB: High-performance** local database for persisting todos.
+- **Flutter Lints:** Enforced coding standards and best practices.
 
 This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
